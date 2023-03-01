@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="20" failures="4" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test" time="0.026" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.16.1+1-LTS-1"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.16.1.jdk/Contents/Home/lib"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Documents/Learn_FPT/SWP391/Demogitlab/DemoTestingTeam1"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="VN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="test" value="com.mycompany.demotestingteam1.DemoTestingTeam1Test"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/mac/Documents/Learn_FPT/SWP391/Demogitlab/DemoTestingTeam1"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.16.1+1-LTS-1"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/hf/1_m0ddgs7yx3t7yc4j6ky7f00000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="maven.ext.class.path" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven-nblib/netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="13.1"/>
+    <property name="library.jansi.path" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven/lib/jansi-native"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/mac"/>
+    <property name="user.timezone" value="Asia/Ho_Chi_Minh"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="mac"/>
+    <property name="java.class.path" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=com.mycompany.demotestingteam1.DemoTestingTeam1Test -Dmaven.ext.class.path=/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven-nblib/netbeans-eventspy.jar surefire:test"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.16.1.jdk/Contents/Home"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.16.1"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Applications/NetBeans/Apache NetBeans 13.app/Contents/Resources/NetBeans/netbeans/java/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2022-08-18"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testOutBoundaryLeftUserName" time="0.001"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testInBoundaryLeftMoreOneUserName" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testInBoundaryRightUserName" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testOutBoundaryRightMoreOneUserName" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testOutBoundaryLeftPassword" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testInBoundaryLeftMoreOnePassword" time="0.024">
+    <failure message="successfull ==&gt; expected: &lt;password must contain at least 1 special character&gt; but was: &lt;successfull&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: successfull ==&gt; expected: &lt;password must contain at least 1 special character&gt; but was: &lt;successfull&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1135)
+	at com.mycompany.demotestingteam1.DemoTestingTeam1Test.testInBoundaryLeftMoreOnePassword(DemoTestingTeam1Test.java:197)
+</failure>
+  </testcase>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testInBoundaryRightPassword" time="0">
+    <failure message="successfull ==&gt; expected: &lt;password must contain at least 1 special character&gt; but was: &lt;successfull&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: successfull ==&gt; expected: &lt;password must contain at least 1 special character&gt; but was: &lt;successfull&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1135)
+	at com.mycompany.demotestingteam1.DemoTestingTeam1Test.testInBoundaryRightPassword(DemoTestingTeam1Test.java:210)
+</failure>
+  </testcase>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testOutBoundaryRightMoreOnePassword" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testCheckEmptyUserName" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testCheckBlankUserName" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testBoundaryLeftUserName" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testBoundaryRightUserName" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testCheckEmptyPassword" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testCheckBlankPassword" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testBoundaryLeftPassword" time="0">
+    <failure message="successfull ==&gt; expected: &lt;password must contain at least 1 special character&gt; but was: &lt;successfull&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: successfull ==&gt; expected: &lt;password must contain at least 1 special character&gt; but was: &lt;successfull&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1135)
+	at com.mycompany.demotestingteam1.DemoTestingTeam1Test.testBoundaryLeftPassword(DemoTestingTeam1Test.java:185)
+</failure>
+  </testcase>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testBoundaryRightPassword" time="0.001">
+    <failure message="successfull ==&gt; expected: &lt;password must contain at least 1 special character&gt; but was: &lt;successfull&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: successfull ==&gt; expected: &lt;password must contain at least 1 special character&gt; but was: &lt;successfull&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1135)
+	at com.mycompany.demotestingteam1.DemoTestingTeam1Test.testBoundaryRightPassword(DemoTestingTeam1Test.java:225)
+</failure>
+  </testcase>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testNotContainsSpecialChar" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testContainsSpecialChar" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testNotContainsUppercase" time="0"/>
+  <testcase classname="com.mycompany.demotestingteam1.DemoTestingTeam1Test" name="com.mycompany.demotestingteam1.DemoTestingTeam1Test.testContainsUppercase" time="0"/>
+</testsuite>
